@@ -1,0 +1,50 @@
+.iphone-light-card {
+  background-color: #f5f5f7;
+  background-image: url(../../../public/images/hero-iphone-15-light.jpg);
+  background-position: center;
+  color: #1d1d1f;
+  background-position: 50% 90%;
+}
+
+.macpro-light-card {
+  background-color: white;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  color: #1d1d1f;
+  background-image: url(../../../public/images/mac-book-pro.jpg);
+  background-size: 100%;
+  background-position: 50% 80%;
+}
+
+.imac-light-card {
+  background-color: white;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  color: #1d1d1f;
+  background-image: url(../../../public/images/imac.jpeg);
+}
+
+.apple-watch-dark-card {
+  background-color: #000;
+  background-image: url(../../../public/images/apple-watch.jpg);
+  background-position: center;
+  color: #fff;
+}
+
+.airpods-dark-card {
+  background-color: #000;
+  background-image: url(../../../public/images/airpods.svg);
+  color: #fff;
+  background-size: 100%;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+}
+
+.ipad-light-card {
+  background-color: white;
+  background-size: 45%;
+  background-position: 50% 90%;
+  background-repeat: no-repeat;
+  color: #1d1d1f;
+  background-image: url(../../../public/images/ipad.jpg);
+}

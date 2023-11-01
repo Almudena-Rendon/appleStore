@@ -1,0 +1,39 @@
+.store {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #77777b;
+}
+
+.store img {
+  height: 16px;
+  padding-right: 5px;
+}
+.menu-list {
+  display: flex;
+  justify-content: space-evenly;
+  color: #77777b;
+}
+.menu-list ul {
+  list-style: none;
+}
+.menu-items {
+  margin-top: 30px;
+  background-color: rgba(0, 0, 0, 0.099);
+}
+.footer p {
+  text-align: center;
+}
+.footer {
+  padding: 20px;
+  color: #77777b;
+}
+.cross {
+  display: none;
+}
+.menuopen {
+  display: none;
+}

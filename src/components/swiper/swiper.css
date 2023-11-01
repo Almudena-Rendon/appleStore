@@ -1,0 +1,39 @@
+.swiper-pagination-bullet {
+  background: #333333;
+}
+
+.slide-1 {
+  background-image: url(../../../public/images/slide-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-2 {
+  background-image: url(../../../public/images/slide-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-3 {
+  background-image: url(../../../public/images/slide-3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-4 {
+  background-image: url(../../../public/images/slide-4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-5 {
+  background-image: url(../../../public/images/slide-5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-6 {
+  background-image: url(../../../public/images/slider-5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,4 +1,6 @@
 import { Grid } from "@mui/material";
+import AppleIcon from "@mui/icons-material/Apple";
+import ShoppingBagOutlinedIcon from "@mui/icons-material/ShoppingBagOutlined";
 import React from "react";
 import "./navbar.css";
 
@@ -6,7 +8,7 @@ export const Navbar = () => {
   return (
     <Grid container className="navbar">
       <Grid className="logo">
-        <img src="/images/apple-logo.png" alt="logo" />
+        <AppleIcon />
       </Grid>
       <ul>
         <li>Store</li>
@@ -21,8 +23,7 @@ export const Navbar = () => {
         <li>Support</li>
       </ul>
       <Grid className="nav-icons">
-        <img src="/images/search-icon.png" alt="search-icon" />
-        <img src="/images/shopping-bag.png" alt="shopping-bag" />
+        <ShoppingBagOutlinedIcon />
       </Grid>
     </Grid>
   );

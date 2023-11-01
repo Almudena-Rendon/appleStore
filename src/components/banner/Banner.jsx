@@ -9,7 +9,7 @@ export const Banner = () => {
         Save up to 20% on selected products with eligible code. Plus no Shipping
         Cost.
       </p>
-      <a href="#">See Offers</a>
+      <a href="#">Learn More {">"}</a>
     </Grid>
   );
 };

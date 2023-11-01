@@ -2,6 +2,7 @@ import { Grid } from "@mui/material";
 import React from "react";
 import { Banner } from "../banner/Banner";
 import "./hero-section.css";
+import { ExtendedCard } from "../common/Card";
 
 export const HeroSection = () => {
   return (
