@@ -1,31 +1,34 @@
 .iphone-light-card {
   background-color: #f5f5f7;
+  height: 77vh;
   background-image: url(../../../public/images/hero-iphone-15-light.jpg);
-  background-position: center;
+  background-position: 50% 85%;
+  background-repeat: no-repeat;
   color: #1d1d1f;
-  background-position: 50% 90%;
 }
 
 .macpro-light-card {
   background-color: white;
-  background-position: 50% 100%;
+  height: 77vh;
   background-repeat: no-repeat;
   color: #1d1d1f;
   background-image: url(../../../public/images/mac-book-pro.jpg);
-  background-size: 100%;
-  background-position: 50% 80%;
+  background-size: 80%;
+  background-position: 50% 75%;
 }
 
 .imac-light-card {
   background-color: white;
-  background-position: 50% 100%;
+  height: 78vh;
+  background-position: center;
   background-repeat: no-repeat;
   color: #1d1d1f;
-  background-image: url(../../../public/images/imac.jpeg);
+  background-image: url(../../../public/images/promo_imac_preorder__d3qgowjdhqs2_large.jpg);
 }
 
 .apple-watch-dark-card {
   background-color: #000;
+  height: 78vh;
   background-image: url(../../../public/images/apple-watch.jpg);
   background-position: center;
   color: #fff;
@@ -33,18 +36,42 @@
 
 .airpods-dark-card {
   background-color: #000;
-  background-image: url(../../../public/images/airpods.svg);
+  height: 78vh;
+  background-position: center;
+  background-image: url(../../../public/images/promo_airpods_pro_order__d8xv36p4uwae_large.jpg);
   color: #fff;
-  background-size: 100%;
-  background-position: 50% 100%;
   background-repeat: no-repeat;
 }
 
 .ipad-light-card {
   background-color: white;
-  background-size: 45%;
-  background-position: 50% 90%;
+  height: 78vh;
+  background-position: center;
   background-repeat: no-repeat;
   color: #1d1d1f;
-  background-image: url(../../../public/images/ipad.jpg);
+  background-image: url(../../../public/images/promo_ipad__fioegapg12qi_large.jpg);
+}
+
+.apple-card-light-card {
+  background-color: white;
+  height: 78vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #1d1d1f;
+  background-image: url(../../../public/images/tile__cauwwcyyn9hy_small.jpg);
+}
+
+.tradein-light-card {
+  background-color: white;
+  height: 78vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #1d1d1f;
+  background-image: url(../../../public/images/promo_iphone_tradein__bugw15ka691e_small.jpg);
+}
+
+.apple-icon {
+  height: 35px !important;
+  width: 35px !important;
+  color: #1d1d1f;
 }

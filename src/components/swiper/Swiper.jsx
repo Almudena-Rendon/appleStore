@@ -9,10 +9,10 @@ export const SwiperAppleTV = () => {
   return (
     <Swiper
       style={{
-        height: "80vh",
+        height: "90vh",
         width: "100%",
-        paddingTop: "20px",
-        marginBottom: "20px",
+        paddingTop: "30px",
+        marginBottom: "30px",
       }}
       slidesPerView={1.2}
       autoplay={{
@@ -33,6 +33,8 @@ export const SwiperAppleTV = () => {
       <SwiperSlide className="slide-4"></SwiperSlide>
       <SwiperSlide className="slide-5"></SwiperSlide>
       <SwiperSlide className="slide-6"></SwiperSlide>
+      <SwiperSlide className="slide-7"></SwiperSlide>
+      <SwiperSlide className="slide-8"></SwiperSlide>
     </Swiper>
   );
 };

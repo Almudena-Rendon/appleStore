@@ -9,7 +9,8 @@
 .offers a {
   color: rgb(26, 141, 242);
   text-decoration: none;
-  font-size: 20px;
+  font-size: 14px;
+  padding-top: 7px;
 }
 
 .offers a:hover {

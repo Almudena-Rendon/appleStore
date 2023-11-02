@@ -3,37 +3,56 @@
 }
 
 .slide-1 {
-  background-image: url(../../../public/images/slide-1.jpg);
+  background-image: url(../../../public/images/slider1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .slide-2 {
-  background-image: url(../../../public/images/slide-2.jpg);
+  background-image: url(../../../public/images/slider2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .slide-3 {
-  background-image: url(../../../public/images/slide-3.jpg);
+  background-image: url(../../../public/images/slider3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .slide-4 {
-  background-image: url(../../../public/images/slide-4.jpg);
+  background-image: url(../../../public/images/slider4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .slide-5 {
-  background-image: url(../../../public/images/slide-5.jpg);
+  background-image: url(../../../public/images/slider5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .slide-6 {
-  background-image: url(../../../public/images/slider-5.jpg);
+  background-image: url(../../../public/images/slider6.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+}
+
+.slide-7 {
+  background-image: url(../../../public/images/slider7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-8 {
+  background-image: url(../../../public/images/slider8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
