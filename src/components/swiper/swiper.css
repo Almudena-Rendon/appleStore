@@ -1,5 +1,12 @@
+.apple-tv-swipper {
+  height: 90vh;
+  width: 100%;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
 .swiper-pagination-bullet {
-  background: #333333;
+  background: #212020;
 }
 
 .slide-1 {
@@ -55,4 +62,16 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+@media (max-width: 1400px) {
+  .apple-tv-swipper {
+    height: 50vh;
+  }
+}
+
+@media (max-width: 1050px) {
+  .apple-tv-swipper {
+    height: 30vh;
+  }
 }

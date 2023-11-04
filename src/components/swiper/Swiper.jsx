@@ -8,12 +8,7 @@ import "swiper/css";
 export const SwiperAppleTV = () => {
   return (
     <Swiper
-      style={{
-        height: "90vh",
-        width: "100%",
-        paddingTop: "30px",
-        marginBottom: "30px",
-      }}
+      className="apple-tv-swipper"
       slidesPerView={1.2}
       autoplay={{
         delay: 2500,

@@ -75,3 +75,74 @@
   width: 35px !important;
   color: #1d1d1f;
 }
+
+@media (max-width: 1200px) {
+  .iphone-light-card {
+    height: 60vh;
+    background-position: 50% 80%;
+  }
+
+  .macpro-light-card {
+    height: 60vh;
+    background-size: 100%;
+    background-position: 50% 70%;
+  }
+
+  .imac-light-card {
+    height: 51vh;
+  }
+
+  .apple-watch-dark-card {
+    height: 51vh;
+  }
+
+  .airpods-dark-card {
+    height: 51vh;
+  }
+
+  .ipad-light-card {
+    height: 51vh;
+  }
+
+  .apple-card-light-card {
+    height: 51vh;
+  }
+
+  .tradein-light-card {
+    height: 51vh;
+  }
+}
+
+@media (max-width: 770px) {
+  .iphone-light-card {
+    height: 50vh;
+  }
+
+  .macpro-light-card {
+    height: 50vh;
+  }
+
+  .imac-light-card {
+    height: 62vh;
+  }
+
+  .apple-watch-dark-card {
+    height: 62vh;
+  }
+
+  .airpods-dark-card {
+    height: 62vh;
+  }
+
+  .ipad-light-card {
+    height: 62vh;
+  }
+
+  .apple-card-light-card {
+    height: 62vh;
+  }
+
+  .tradein-light-card {
+    height: 62vh;
+  }
+}
