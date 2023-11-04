@@ -28,7 +28,7 @@
   text-align: center;
 }
 .footer {
-  padding: 20px;
+  padding: 20px 0;
   color: #77777b;
 }
 .cross {
@@ -36,4 +36,19 @@
 }
 .menuopen {
   display: none;
+}
+
+@media (max-width: 490px) {
+  .store {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 4rem;
+  }
+  .menu-list {
+    margin-left: 4rem;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+  }
 }

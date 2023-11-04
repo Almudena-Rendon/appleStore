@@ -31,6 +31,7 @@
   height: 78vh;
   background-image: url(../../../public/images/apple-watch.jpg);
   background-position: center;
+  background-repeat: no-repeat;
   color: #fff;
 }
 
@@ -113,7 +114,7 @@
   }
 }
 
-@media (max-width: 770px) {
+@media (max-width: 750px) {
   .iphone-light-card {
     height: 50vh;
   }
@@ -123,26 +124,95 @@
   }
 
   .imac-light-card {
-    height: 62vh;
+    height: 60vh;
   }
 
   .apple-watch-dark-card {
-    height: 62vh;
+    height: 60vh;
   }
 
   .airpods-dark-card {
-    height: 62vh;
+    height: 60vh;
   }
 
   .ipad-light-card {
-    height: 62vh;
+    height: 60vh;
   }
 
   .apple-card-light-card {
-    height: 62vh;
+    height: 60vh;
   }
 
   .tradein-light-card {
-    height: 62vh;
+    height: 60vh;
+  }
+}
+
+@media (max-width: 750px) {
+  .iphone-light-card {
+    height: 60vh;
+    background-position: 50% 75%;
+  }
+
+  .macpro-light-card {
+    height: 80vh;
+  }
+  .imac-light-card {
+    height: 80vh;
+  }
+
+  .apple-watch-dark-card {
+    height: 80vh;
+  }
+
+  .airpods-dark-card {
+    height: 80vh;
+  }
+
+  .ipad-light-card {
+    height: 80vh;
+  }
+
+  .apple-card-light-card {
+    height: 80vh;
+  }
+
+  .tradein-light-card {
+    height: 80vh;
+  }
+}
+
+@media (max-width: 590px) {
+  .iphone-light-card {
+    height: 55vh;
+    background-position: 50% 75%;
+  }
+
+  .macpro-light-card {
+    height: 55vh;
+  }
+
+  .imac-light-card {
+    height: 80vh;
+  }
+
+  .apple-watch-dark-card {
+    height: 80vh;
+  }
+
+  .airpods-dark-card {
+    height: 80vh;
+  }
+
+  .ipad-light-card {
+    height: 80vh;
+  }
+
+  .apple-card-light-card {
+    height: 80vh;
+  }
+
+  .tradein-light-card {
+    height: 80vh;
   }
 }
