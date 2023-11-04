@@ -3,8 +3,8 @@
   justify-content: center;
   align-items: center;
   margin-left: 5rem;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   color: #77777b;
 }
 
@@ -16,6 +16,7 @@
   display: flex;
   justify-content: space-evenly;
   color: #77777b;
+  padding-bottom: 2rem;
 }
 .menu-list ul {
   list-style: none;
@@ -24,13 +25,7 @@
   margin-top: 30px;
   background-color: rgba(0, 0, 0, 0.099);
 }
-.footer p {
-  text-align: center;
-}
-.footer {
-  padding: 20px 0;
-  color: #77777b;
-}
+
 .cross {
   display: none;
 }
@@ -43,10 +38,11 @@
     display: flex;
     justify-content: start;
     align-items: center;
-    margin-left: 4rem;
+    margin-left: 2rem;
   }
   .menu-list {
-    margin-left: 4rem;
+    padding: 0 2rem;
+    padding-bottom: 2rem;
     display: flex;
     gap: 20px;
     flex-direction: column;

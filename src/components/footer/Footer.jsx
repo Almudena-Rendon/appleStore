@@ -48,10 +48,10 @@ export const Footer = () => {
           <li> Contact Apple </li>
         </ul>
       </Grid>
-      <Grid class="footer">
+      <Grid class="menu-list">
         <p>
           Copyright © 2023 Apple Inc. All rights reserved. Privacy Policy Terms
-          of Use Sales Policy Legal Site Map{" "}
+          of Use Sales Policy Legal Site Map
         </p>
       </Grid>
     </Grid>
