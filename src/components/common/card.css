@@ -54,17 +54,17 @@
   border-bottom: 1px solid rgb(26, 141, 242);
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 1150px) {
   .main-title h1 {
-    font-size: 38px;
+    font-size: 40px;
   }
 
   .main-title .subtitle {
-    font-size: 15px;
+    font-size: 17px;
   }
 
   .main-title .additional-info {
-    font-size: 14px;
+    font-size: 15px;
   }
   .link {
     font-size: 16px;
@@ -76,18 +76,67 @@
 
 @media (max-width: 900px) {
   .main-title h1 {
-    font-size: 42px;
+    font-size: 45px;
   }
 
   .main-title .subtitle {
-    font-size: 15px;
+    font-size: 20px;
   }
 
   .main-title .additional-info {
-    font-size: 13px;
+    font-size: 18px;
   }
   .link {
-    font-size: 15px;
+    font-size: 17px;
+  }
+  .link a {
+    margin-right: 7px;
+  }
+  .link a {
+    margin-right: 7px;
+  }
+}
+
+@media (max-width: 450px) {
+  .main-title h1 {
+    font-size: 34px;
+  }
+
+  .main-title .subtitle {
+    font-size: 16px;
+  }
+
+  .main-title .additional-info {
+    font-size: 14px;
+  }
+  .link {
+    font-size: 13px;
+  }
+  .link a {
+    margin-right: 7px;
+  }
+  .link a {
+    margin-right: 7px;
+  }
+}
+
+@media (max-width: 400px) {
+  .main-title h1 {
+    font-size: 30px;
+  }
+
+  .main-title .subtitle {
+    font-size: 18px;
+  }
+
+  .main-title .additional-info {
+    font-size: 16px;
+  }
+  .link {
+    font-size: 14px;
+  }
+  .link a {
+    margin-right: 7px;
   }
   .link a {
     margin-right: 7px;
