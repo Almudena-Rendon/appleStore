@@ -36,15 +36,6 @@
 
 @media (max-width: 400px) {
   .offers p {
-    font-size: 12px;
-  }
-  .offers a {
-    font-size: 11px;
-  }
-}
-
-@media (max-width: 300px) {
-  .offers p {
     font-size: 11px;
   }
   .offers a {

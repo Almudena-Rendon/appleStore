@@ -3,37 +3,34 @@ import { Card } from "../common/Card";
 import { Grid } from "@mui/material";
 import "./main-section.css";
 import AppleIcon from "@mui/icons-material/Apple";
+import { ExtendedCard } from "../common/ExtendedCard";
 
 export const MainSection = () => {
   return (
     <Grid>
-      <Grid>
-        <Card
-          className={"iphone-light-card"}
-          CardTitle={"iPhone 15"}
-          CardSubtitle={"New Camera. New Design. Newphoria."}
-          Link={
-            <>
-              <a href="#">Learn More {">"}</a>
-              <a href="#">Buy {">"}</a>
-            </>
-          }
-        />
-      </Grid>
-      <Grid>
-        <Card
-          className={"macpro-light-card"}
-          CardTitle={"MacBook Pro"}
-          CardSubtitle={"Mind-blowing. Head turning."}
-          AdditionalInfo={"Available starting 11.7"}
-          Link={
-            <>
-              <a href="#">Learn More {">"}</a>
-              <a href="#">Order now {">"}</a>
-            </>
-          }
-        />
-      </Grid>
+      <ExtendedCard
+        className={"iphone-light-card"}
+        CardTitle={"iPhone 15"}
+        CardSubtitle={"New Camera. New Design. Newphoria."}
+        Link={
+          <>
+            <a href="#">Learn More {">"}</a>
+            <a href="#">Buy {">"}</a>
+          </>
+        }
+      />
+      <ExtendedCard
+        className={"macpro-light-card"}
+        CardTitle={"MacBook Pro"}
+        CardSubtitle={"Mind-blowing. Head turning."}
+        AdditionalInfo={"Available starting 11.7"}
+        Link={
+          <>
+            <a href="#">Learn More {">"}</a>
+            <a href="#">Order now {">"}</a>
+          </>
+        }
+      />
       <Grid container spacing={2}>
         <Grid item xs={12} sm={6} md={6} lg={6}>
           <Card

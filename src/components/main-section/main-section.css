@@ -1,6 +1,6 @@
 .iphone-light-card {
   background-color: #f5f5f7;
-  height: 77vh;
+  height: 80vh;
   background-image: url(../../../public/images/hero-iphone-15-light.jpg);
   background-position: 50% 85%;
   background-repeat: no-repeat;
@@ -9,11 +9,11 @@
 
 .macpro-light-card {
   background-color: white;
-  height: 77vh;
+  height: 80vh;
   background-repeat: no-repeat;
   color: #1d1d1f;
   background-image: url(../../../public/images/mac-book-pro.jpg);
-  background-size: 80%;
+  background-size: 70%;
   background-position: 50% 75%;
 }
 
@@ -77,15 +77,17 @@
   color: #1d1d1f;
 }
 
+@media (max-width: 1400px) {
+  .macpro-light-card {
+    background-size: 85%;
+  }
+}
+
 @media (max-width: 1300px) {
   .iphone-light-card {
     max-height: 550px;
   }
 
-  .macpro-light-card {
-    max-height: 550px;
-  }
-
   .imac-light-card {
     max-height: 580px;
   }
@@ -108,60 +110,68 @@
 
   .tradein-light-card {
     max-height: 580px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .iphone-light-card {
+    max-height: 530px;
+  }
+
+  .macpro-light-card {
+    max-height: 530px;
+    background-size: 100%;
+  }
+}
+
+@media (max-width: 960px) {
+  .macpro-light-card {
+    background-size: 110%;
+  }
+  .iphone-light-card {
+    background-image: url(../../../public/images/hero_iphone15_announce__uuemlcwczn6u_small.jpg);
+    background-position: center;
   }
 }
 
 @media (max-width: 850px) {
-  .iphone-light-card {
-    max-height: 480px;
-  }
-
   .macpro-light-card {
-    max-height: 480px;
+    background-size: 110%;
   }
 }
 
-@media (max-width: 750px) {
-  .iphone-light-card {
-    max-height: 480px;
-  }
-
+@media (max-width: 655px) {
   .macpro-light-card {
-    max-height: 480px;
+    background-size: 120%;
   }
 }
 
-/* @media (max-width: 590px) {
+@media (max-width: 600px) {
+  .macpro-light-card {
+    background-image: url(../../../public/images/hero_mbp_preorder__caf0s6im2nqq_small.jpg);
+    background-position: center;
+    background-size: 120%;
+  }
+}
+
+@media (max-width: 440px) {
   .iphone-light-card {
-    height: 55vh;
-    background-position: 50% 75%;
+    max-height: 450px;
   }
 
   .macpro-light-card {
-    height: 55vh;
+    max-height: 450px;
+    background-size: 150%;
+  }
+}
+
+@media (max-width: 350px) {
+  .iphone-light-card {
+    max-height: 400px;
   }
 
-  .imac-light-card {
-    height: 80vh;
+  .macpro-light-card {
+    max-height: 400px;
+    background-size: 140%;
   }
-
-  .apple-watch-dark-card {
-    height: 80vh;
-  }
-
-  .airpods-dark-card {
-    height: 80vh;
-  }
-
-  .ipad-light-card {
-    height: 80vh;
-  }
-
-  .apple-card-light-card {
-    height: 80vh;
-  }
-
-  .tradein-light-card {
-    height: 80vh;
-  }
-} */
+}
