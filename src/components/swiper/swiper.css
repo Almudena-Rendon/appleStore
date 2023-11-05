@@ -24,40 +24,34 @@
 }
 
 .slide-3 {
-  background-image: url(../../../public/images/slider3.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.slide-4 {
   background-image: url(../../../public/images/slider4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.slide-5 {
+.slide-4 {
   background-image: url(../../../public/images/slider5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.slide-6 {
+.slide-5 {
   background-image: url(../../../public/images/slider6.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.slide-7 {
+.slide-6 {
   background-image: url(../../../public/images/slider7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.slide-8 {
+.slide-7 {
   background-image: url(../../../public/images/slider8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -66,12 +60,40 @@
 
 @media (max-width: 1400px) {
   .apple-tv-swipper {
-    height: 50vh;
+    height: 75vh;
+  }
+
+  .slide-1 {
+    background-size: contain;
+  }
+
+  .slide-2 {
+    background-size: contain;
+  }
+
+  .slide-3 {
+    background-size: contain;
+  }
+
+  .slide-4 {
+    background-size: contain;
+  }
+
+  .slide-5 {
+    background-size: contain;
+  }
+
+  .slide-6 {
+    background-size: contain;
+  }
+
+  .slide-7 {
+    background-size: contain;
   }
 }
 
 @media (max-width: 1050px) {
   .apple-tv-swipper {
-    height: 30vh;
+    height: 45vh;
   }
 }

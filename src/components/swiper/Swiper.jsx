@@ -29,7 +29,6 @@ export const SwiperAppleTV = () => {
       <SwiperSlide className="slide-5"></SwiperSlide>
       <SwiperSlide className="slide-6"></SwiperSlide>
       <SwiperSlide className="slide-7"></SwiperSlide>
-      <SwiperSlide className="slide-8"></SwiperSlide>
     </Swiper>
   );
 };
