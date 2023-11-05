@@ -47,7 +47,7 @@
   color: rgb(26, 141, 242);
   text-decoration: none;
   display: inline-block;
-  padding-right: 2rem;
+  margin-right: 2rem;
 }
 
 .link-extended-card a:hover {
@@ -119,7 +119,7 @@
   }
 
   .link-extended-card a {
-    padding-right: 1rem;
+    margin-right: 1rem;
   }
 }
 
@@ -140,7 +140,7 @@
   }
 
   .link-extended-card a {
-    padding-right: 1rem;
+    margin-right: 1rem;
   }
 }
 
@@ -172,7 +172,7 @@
   }
 
   .link-extended-card a {
-    padding-right: 0.5rem;
+    margin-right: 0.5rem;
   }
 }
 
@@ -192,7 +192,7 @@
   }
 
   .link-extended-card a {
-    padding-right: 0.5rem;
+    margin-right: 0.5rem;
   }
 }
 
