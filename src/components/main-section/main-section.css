@@ -77,112 +77,61 @@
   color: #1d1d1f;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1300px) {
   .iphone-light-card {
-    height: 60vh;
-    background-position: 50% 80%;
+    max-height: 550px;
   }
 
   .macpro-light-card {
-    height: 60vh;
-    background-size: 100%;
-    background-position: 50% 70%;
+    max-height: 550px;
   }
 
   .imac-light-card {
-    height: 51vh;
+    max-height: 580px;
   }
 
   .apple-watch-dark-card {
-    height: 51vh;
+    max-height: 580px;
   }
 
   .airpods-dark-card {
-    height: 51vh;
+    max-height: 580px;
   }
 
   .ipad-light-card {
-    height: 51vh;
+    max-height: 580px;
   }
 
   .apple-card-light-card {
-    height: 51vh;
+    max-height: 580px;
   }
 
   .tradein-light-card {
-    height: 51vh;
+    max-height: 580px;
+  }
+}
+
+@media (max-width: 850px) {
+  .iphone-light-card {
+    max-height: 480px;
+  }
+
+  .macpro-light-card {
+    max-height: 480px;
   }
 }
 
 @media (max-width: 750px) {
   .iphone-light-card {
-    height: 50vh;
+    max-height: 480px;
   }
 
   .macpro-light-card {
-    height: 50vh;
-  }
-
-  .imac-light-card {
-    height: 60vh;
-  }
-
-  .apple-watch-dark-card {
-    height: 60vh;
-  }
-
-  .airpods-dark-card {
-    height: 60vh;
-  }
-
-  .ipad-light-card {
-    height: 60vh;
-  }
-
-  .apple-card-light-card {
-    height: 60vh;
-  }
-
-  .tradein-light-card {
-    height: 60vh;
+    max-height: 480px;
   }
 }
 
-@media (max-width: 750px) {
-  .iphone-light-card {
-    height: 60vh;
-    background-position: 50% 75%;
-  }
-
-  .macpro-light-card {
-    height: 80vh;
-  }
-  .imac-light-card {
-    height: 80vh;
-  }
-
-  .apple-watch-dark-card {
-    height: 80vh;
-  }
-
-  .airpods-dark-card {
-    height: 80vh;
-  }
-
-  .ipad-light-card {
-    height: 80vh;
-  }
-
-  .apple-card-light-card {
-    height: 80vh;
-  }
-
-  .tradein-light-card {
-    height: 80vh;
-  }
-}
-
-@media (max-width: 590px) {
+/* @media (max-width: 590px) {
   .iphone-light-card {
     height: 55vh;
     background-position: 50% 75%;
@@ -215,4 +164,4 @@
   .tradein-light-card {
     height: 80vh;
   }
-}
+} */

@@ -76,3 +76,23 @@
     margin-right: 7px;
   }
 }
+
+@media (max-width: 900px) {
+  .main-title h1 {
+    font-size: 42px;
+  }
+
+  .main-title .subtitle {
+    font-size: 15px;
+  }
+
+  .main-title .additional-info {
+    font-size: 13px;
+  }
+  .link {
+    font-size: 15px;
+  }
+  .link a {
+    margin-right: 7px;
+  }
+}

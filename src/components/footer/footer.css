@@ -17,6 +17,7 @@
   justify-content: space-evenly;
   color: #77777b;
   padding-bottom: 2rem;
+  margin: 0 2rem;
 }
 .menu-list ul {
   list-style: none;
@@ -46,5 +47,6 @@
     display: flex;
     gap: 20px;
     flex-direction: column;
+    margin: 0;
   }
 }
