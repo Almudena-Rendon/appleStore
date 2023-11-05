@@ -3,20 +3,13 @@
   position: relative;
   text-align: center !important;
 }
-
 .body-extended-card img {
   width: 100%;
 }
-
 .main-title-extended-card {
   text-align: center;
   padding-top: 40px;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1;
 }
-
 .main-title-extended-card h1 {
   font-size: 55px;
   font-weight: 550;
@@ -25,31 +18,26 @@
   justify-content: center;
   align-items: center;
 }
-
 .main-title-extended-card .subtitle-extended-card {
   font-size: 25px;
   padding-bottom: 15px;
 }
-
 .main-title-extended-card .additional-info-extended-card {
   font-size: 22px;
   padding-bottom: 15px;
   color: #77777b;
 }
-
 .link-extended-card {
   font-size: 20px;
   text-align: center;
   padding-bottom: 10px;
 }
-
 .link-extended-card a {
   color: rgb(26, 141, 242);
   text-decoration: none;
   display: inline-block;
   margin-right: 2rem;
 }
-
 .link-extended-card a:hover {
   border-bottom: 1px solid rgb(26, 141, 242);
 }
@@ -58,11 +46,9 @@
   .main-title-extended-card h1 {
     font-size: 50px;
   }
-
   .main-title-extended-card .subtitle-extended-card {
     font-size: 24px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 21px;
   }
@@ -72,11 +58,9 @@
   .main-title-extended-card h1 {
     font-size: 45px;
   }
-
   .main-title-extended-card .subtitle-extended-card {
     font-size: 22px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 20px;
   }
@@ -89,11 +73,9 @@
   .main-title-extended-card h1 {
     font-size: 40px;
   }
-
   .main-title-extended-card .subtitle-extended-card {
     font-size: 20px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 18px;
   }
@@ -106,18 +88,15 @@
   .main-title-extended-card h1 {
     font-size: 35px;
   }
-
   .main-title-extended-card .subtitle-extended-card {
     font-size: 17px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 15px;
   }
   .link-extended-card {
     font-size: 14px;
   }
-
   .link-extended-card a {
     margin-right: 1rem;
   }
@@ -127,18 +106,15 @@
   .main-title-extended-card h1 {
     font-size: 34px;
   }
-
   .main-title-extended-card .subtitle-extended-card {
     font-size: 16px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 14px;
   }
   .link-extended-card {
     font-size: 13px;
   }
-
   .link-extended-card a {
     margin-right: 1rem;
   }
@@ -163,14 +139,12 @@
   .main-title-extended-card .subtitle-extended-card {
     font-size: 18px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 16px;
   }
   .link-extended-card {
     font-size: 14px;
   }
-
   .link-extended-card a {
     margin-right: 0.5rem;
   }
@@ -183,14 +157,12 @@
   .main-title-extended-card .subtitle-extended-card {
     font-size: 12px;
   }
-
   .main-title-extended-card .additional-info-extended-card {
     font-size: 11px;
   }
   .link-extended-card {
     font-size: 11px;
   }
-
   .link-extended-card a {
     margin-right: 0.5rem;
   }

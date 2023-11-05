@@ -6,7 +6,6 @@
   background-repeat: no-repeat;
   color: #1d1d1f;
 }
-
 .macpro-light-card {
   background-color: white;
   height: 85vh;
@@ -16,7 +15,6 @@
   background-size: 70%;
   background-position: 50% 75%;
 }
-
 .imac-light-card {
   background-color: white;
   height: 78vh;
@@ -25,7 +23,6 @@
   color: #1d1d1f;
   background-image: url(../../../public/images/promo_imac_preorder__d3qgowjdhqs2_large.jpg);
 }
-
 .apple-watch-dark-card {
   background-color: #000;
   height: 78vh;
@@ -34,7 +31,6 @@
   background-repeat: no-repeat;
   color: #fff;
 }
-
 .airpods-dark-card {
   background-color: #000;
   height: 78vh;
@@ -43,7 +39,6 @@
   color: #fff;
   background-repeat: no-repeat;
 }
-
 .ipad-light-card {
   background-color: white;
   height: 78vh;
@@ -52,7 +47,6 @@
   color: #1d1d1f;
   background-image: url(../../../public/images/promo_ipad__fioegapg12qi_large.jpg);
 }
-
 .apple-card-light-card {
   background-color: white;
   height: 78vh;
@@ -61,7 +55,6 @@
   color: #1d1d1f;
   background-image: url(../../../public/images/tile__cauwwcyyn9hy_small.jpg);
 }
-
 .tradein-light-card {
   background-color: white;
   height: 78vh;
@@ -70,7 +63,6 @@
   color: #1d1d1f;
   background-image: url(../../../public/images/promo_iphone_tradein__bugw15ka691e_small.jpg);
 }
-
 .apple-icon {
   height: 35px !important;
   width: 35px !important;
@@ -87,27 +79,21 @@
   .iphone-light-card {
     max-height: 550px;
   }
-
   .imac-light-card {
     max-height: 580px;
   }
-
   .apple-watch-dark-card {
     max-height: 580px;
   }
-
   .airpods-dark-card {
     max-height: 580px;
   }
-
   .ipad-light-card {
     max-height: 580px;
   }
-
   .apple-card-light-card {
     max-height: 580px;
   }
-
   .tradein-light-card {
     max-height: 580px;
   }
@@ -117,32 +103,25 @@
   .iphone-light-card {
     max-height: 520px;
   }
-
   .macpro-light-card {
     max-height: 550px;
     background-size: 100%;
   }
-
   .imac-light-card {
     height: 700px;
   }
-
   .apple-watch-dark-card {
     height: 700px;
   }
-
   .airpods-dark-card {
     height: 700px;
   }
-
   .ipad-light-card {
     height: 700px;
   }
-
   .apple-card-light-card {
     height: 700px;
   }
-
   .tradein-light-card {
     height: 700px;
   }
@@ -182,7 +161,6 @@
   .iphone-light-card {
     max-height: 430px;
   }
-
   .macpro-light-card {
     max-height: 470px;
     background-size: 180%;
@@ -193,7 +171,6 @@
   .iphone-light-card {
     max-height: 380px;
   }
-
   .macpro-light-card {
     max-height: 420px;
     background-size: 180%;

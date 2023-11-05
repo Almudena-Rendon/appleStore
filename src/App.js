@@ -1,13 +1,13 @@
 import { Footer } from "./components/footer/Footer";
 import { HeroSection } from "./components/hero-section/HeroSection";
 import { MainSection } from "./components/main-section/MainSection";
-import { Navbar } from "./components/navbar/Navbar";
+import { NavBarResponsive } from "./components/navbar/NavBarResponsive";
 import { SwiperAppleTV } from "./components/swiper/Swiper";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <NavBarResponsive />
       <HeroSection />
       <MainSection />
       <SwiperAppleTV />

@@ -3,20 +3,13 @@
   position: relative;
   text-align: center !important;
 }
-
 .body img {
   width: 100%;
 }
-
 .main-title {
   text-align: center;
   margin-top: 3vh;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1;
 }
-
 .main-title h1 {
   font-size: 45px;
   font-weight: 550;
@@ -25,31 +18,26 @@
   justify-content: center;
   align-items: center;
 }
-
 .main-title .subtitle {
   font-size: 22px;
   padding-bottom: 5px;
 }
-
 .main-title .additional-info {
   font-size: 20px;
   padding-bottom: 5px;
   color: #77777b;
 }
-
 .link {
   padding-top: 10px;
   font-size: 18px;
   text-align: center;
 }
-
 .link a {
   color: rgb(26, 141, 242);
   text-decoration: none;
   display: inline-block;
   margin-right: 25px;
 }
-
 .link a:hover {
   border-bottom: 1px solid rgb(26, 141, 242);
 }
@@ -58,11 +46,9 @@
   .main-title h1 {
     font-size: 40px;
   }
-
   .main-title .subtitle {
     font-size: 17px;
   }
-
   .main-title .additional-info {
     font-size: 15px;
   }
@@ -78,11 +64,9 @@
   .main-title h1 {
     font-size: 45px;
   }
-
   .main-title .subtitle {
     font-size: 20px;
   }
-
   .main-title .additional-info {
     font-size: 18px;
   }
@@ -101,11 +85,9 @@
   .main-title h1 {
     font-size: 34px;
   }
-
   .main-title .subtitle {
     font-size: 16px;
   }
-
   .main-title .additional-info {
     font-size: 14px;
   }
@@ -124,11 +106,9 @@
   .main-title h1 {
     font-size: 30px;
   }
-
   .main-title .subtitle {
     font-size: 18px;
   }
-
   .main-title .additional-info {
     font-size: 16px;
   }
