@@ -27,13 +27,18 @@
 .navbar ul li {
   margin-left: 40px;
   font-size: 15px;
+  cursor: pointer;
 }
 .nav-icons {
   display: flex;
+  cursor: pointer;
   justify-content: center;
   align-items: center;
   gap: 15px;
   padding-left: 35px;
+}
+.logo {
+  cursor: pointer;
 }
 
 @media (min-width: 1200px) {
