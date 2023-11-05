@@ -58,7 +58,7 @@ export const Navbar = () => {
 
   return (
     <>
-      <Grid container className="navbar">
+      <Grid container className={isSticky ? "navbar sticky" : "navbar"}>
         {!isToggle && (
           <Grid className="logo">
             <AppleIcon />
