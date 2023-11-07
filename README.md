@@ -1,4 +1,4 @@
-![image](https://github.com/Almudena-Rendon/appleStore/assets/126793941/dd90ce03-de43-4814-a0d8-3cfb62964d7a)
+![image](https://github.com/Almudena-Rendon/appleStore/assets/126793941/9c5ce1d2-be25-4700-9101-79dca20825eb)
 
 
 # Getting Started with Create React App
