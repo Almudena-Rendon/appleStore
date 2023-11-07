@@ -1,3 +1,6 @@
+![image](https://github.com/Almudena-Rendon/appleStore/assets/126793941/dd90ce03-de43-4814-a0d8-3cfb62964d7a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
