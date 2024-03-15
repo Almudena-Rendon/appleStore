@@ -1,4 +1,8 @@
-![image](https://github.com/Almudena-Rendon/appleStore/assets/126793941/9c5ce1d2-be25-4700-9101-79dca20825eb)
+<div align="center">
+  <img src="https://github.com/Almudena-Rendon/appleStore/assets/126793941/9c5ce1d2-be25-4700-9101-79dca20825eb" alt="Image 1" width="600"/>
+  <img src="https://github.com/Almudena-Rendon/appleStore/assets/126793941/2995f71f-46e4-489f-b386-f15f2cd722d3" alt="Image 2" width="200"/>
+</div>
+
 
 Try the live demo: 👉 https://apple-store-vert.vercel.app/
 
