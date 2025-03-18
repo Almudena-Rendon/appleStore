@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://github.com/Almudena-Rendon/appleStore/assets/126793941/9c5ce1d2-be25-4700-9101-79dca20825eb" alt="Image 1" width="600"/>
-  <img src="https://github.com/Almudena-Rendon/appleStore/assets/126793941/2995f71f-46e4-489f-b386-f15f2cd722d3" alt="Image 2" width="200"/>
-</div>
+
+![Copia de Copia de Blue Modern Quote LinkedIn Post](https://github.com/user-attachments/assets/68a9b40e-ff6b-4d48-924a-5a09a5a56b0d)
 
 
 Try the live demo: 👉 https://apple-store-vert.vercel.app/
